@@ -11,7 +11,7 @@ This system is considered as a good trial of the interaction between rule-based 
 
 # **How to Use Shakkil**
 You can conveniently download the source code for Visual C# and use it. You have two options: either apply diacritization for both internal diacritics and case endings or focus solely on internal diacritics.\
-!(Shakkil Interface)[]
+!(Shakkil Interface)[https://github.com/a-fashwan/Arabic_Automatic_Diacritization/blob/master/Shakkil.jpg]\
 For a detailed description of the application, refer to the paper titled "Automatic Diacritization of Modern Standard Arabic Texts: A Corpus-Based Approach" available at this [ResearchGate link](https://www.researchgate.net/publication/344209062_Automatic_Diacritization_of_Modern_Standard_Arabic_texts_a_corpus_based_approach?channel=doi&linkId=5f5bc51fa6fdcc11640a8260&showFulltext=true).
 
 # **Citation**
