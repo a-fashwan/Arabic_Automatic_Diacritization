@@ -1,6 +1,6 @@
 # **About Shakkil:**
 
-SHAKKIL a system that would be able to diacritize Arabic texts automatically. In this system, the diacritization problem is handled through two levels; morphological and syntactic processing levels. The adopted morphological disambiguation algorithm depends on four layers:
+SHAKKIL a system that would be able to diacritize Arabic texts automatically. In this system, the diacritization problem is handled through two levels; morphological and syntactic processing levels. The adopted morphological disambiguation algorithm depends on four layers:\
 
 **1)** Uni-morphological form layer.
 
@@ -19,9 +19,10 @@ This system is considered as a good trial of the interaction between rule-based 
 If you use Shakkil for your scientific publication, or if you find the resources in this repository useful, please cite our paper as follows (to be updated):
 
 @inproceedings{fashwan2017shakkil,
-  title={SHAKKIL: an automatic diacritization system for modern standard Arabic texts},
-  author={Fashwan, Amany and Alansary, Sameh},
-  booktitle={Proceedings of the Third Arabic Natural Language Processing Workshop},
-  pages={84--93},
-  year={2017}
+
+  title={SHAKKIL: an automatic diacritization system for modern standard Arabic texts},\
+  author={Fashwan, Amany and Alansary, Sameh},\
+  booktitle={Proceedings of the Third Arabic Natural Language Processing Workshop},\
+  pages={84--93},\
+  year={2017}\
 }
