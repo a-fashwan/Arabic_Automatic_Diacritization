@@ -13,7 +13,7 @@ This system is considered as a good trial of the interaction between rule-based 
 # **Citation**
 
 If you use Shakkil for your scientific publication, or if you find the resources in this repository useful, please cite our paper as follows (to be updated):
-``
+```
 @inproceedings{fashwan2017shakkil,\
   title={SHAKKIL: an automatic diacritization system for modern standard Arabic texts},\
   author={Fashwan, Amany and Alansary, Sameh},\
@@ -21,4 +21,4 @@ If you use Shakkil for your scientific publication, or if you find the resources
   pages={84--93},\
   year={2017}\
 }
-``
+```
