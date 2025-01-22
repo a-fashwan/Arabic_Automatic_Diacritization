@@ -20,11 +20,11 @@ For a detailed description of the application, refer to the paper titled "Automa
 
 If you use Shakkil for your scientific publication, or if you find the resources in this repository useful, please cite our paper as follows (to be updated):
 ```
-@inproceedings{fashwan2017shakkil,\
-  title={SHAKKIL: an automatic diacritization system for modern standard Arabic texts},\
-  author={Fashwan, Amany and Alansary, Sameh},\
-  booktitle={Proceedings of the Third Arabic Natural Language Processing Workshop},\
-  pages={84--93},\
-  year={2017}\
+@inproceedings{fashwan2017shakkil,
+  title={SHAKKIL: an automatic diacritization system for modern standard Arabic texts},
+  author={Fashwan, Amany and Alansary, Sameh},
+  booktitle={Proceedings of the Third Arabic Natural Language Processing Workshop},
+  pages={84--93},
+  year={2017}
 }
 ```
